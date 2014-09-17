@@ -1,0 +1,16 @@
+base
+Cairo
+choroplethr
+dplyr
+ggplot2
+ggthemes
+gridExtra
+knitr
+plotrix
+rCharts
+reshape2
+scales
+shiny
+slidify
+slopegraph
+sparkTable
